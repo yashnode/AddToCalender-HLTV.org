@@ -1,7 +1,7 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 2,
     "name": "AddToCalendar for HLTV.org",
-    "version": "0.1",
+    "version": "0.1.2",
     "description": "Never miss your exciting matches, just add them to your favorite calendar on HLTV.org.",
     "author": "Yash Talwar",
     "icons": {
@@ -15,8 +15,8 @@
                 "http://*/*",
                 "https://*/*"
             ],
-            "js": ["AddButton.js"],
-            "css":["style.css"]        
+            "js": ["js/AddButton.js"],
+            "css":["css/style.css"]        
         }
     ]
 }
