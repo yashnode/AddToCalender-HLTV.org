@@ -4,7 +4,7 @@ This extension adds "ADD TO CALENDAR" button on Hltv.org match pages, so you can
 You can add event to Calendars like Google, Yahoo and Outlook.
 You can also download the icalendar.ics file and use it with any calendar you like. 
 
-Now, never miss out on your exciting matches. Just add them to your favorite calendar on HLTV.org.
+Now, never miss out on your exciting matches. Just add them to your favorite calendar on HLTV.org with this Browser Extension.
 
 ## License
 
