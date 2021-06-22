@@ -4,3 +4,7 @@ You can add event to Calendars like Google, Yahoo and Outlook.
 You can also download the icalendar.ics file and use it with any calendar you like. 
 
 Now, never miss out on your exciting matches. Just add them to your favorite calendar on HLTV.org.
+
+## License
+
+The code is available under the [MIT License](LICENSE.md).
