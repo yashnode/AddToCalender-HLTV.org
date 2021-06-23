@@ -14,7 +14,7 @@ Now, never miss out on your exciting matches. Just add them to your favorite cal
 
 FireFox Extension : https://addons.mozilla.org/en-US/firefox/addon/addtocalendar-for-hltv-org/
 
-Chrome Extension : //coming soon
+Chrome Extension : https://chrome.google.com/webstore/detail/addtocalendar-for-hltvorg/neahjdfadkppmlolpkifnhdgngjmgnbm
 
 <b>Step 2</b>: Open [HLTV](https://hltv.org) and go to any Match page. You will find the "Add to Calendar" button there.
 
