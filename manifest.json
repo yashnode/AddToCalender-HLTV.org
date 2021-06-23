@@ -11,10 +11,7 @@
     },
     "content_scripts": [
         {
-            "matches": [
-                "http://*/*",
-                "https://*/*"
-            ],
+            "matches": ["*://*.hltv.org/*"],
             "js": ["js/AddButton.js"],
             "css":["css/style.css"]        
         }

@@ -58,7 +58,6 @@ function onload(){
       var FixedStartTimeWithOffset = fix(StartTimeWithOffset);
       const EndTimeWithOffset = TimeZoneOffset(EndTime);
       var FixedEndTimeWithOffset = fix(EndTimeWithOffset);
-      console.log(FixedStartTimeWithOffset,FixedEndTimeWithOffset);
       
       //Google Calendar - will take ISO 8601 directly
       var url = encodeURI([
