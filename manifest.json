@@ -1,19 +1,17 @@
 {
-    "manifest_version": 2,
-    "name": "AddToCalendar for HLTV.org",
-    "version": "0.1.4",
-    "description": "Never miss your exciting CSGO matches, just add them to your favorite calendar on HLTV.org.",
-    "author": "Yash Talwar",
-    "icons": {
-        "16": "icons/icon16.png",
-        "48": "icons/icon48.png",
-        "128": "icons/icon128.png"
-    },
-    "content_scripts": [
-        {
-            "matches": ["*://*.hltv.org/*"],
-            "js": ["js/AddButton.js"],
-            "css":["css/style.css"]        
-        }
-    ]
+  "manifest_version": 3,
+  "name": "AddToCalendar for HLTV.org",
+  "version": "0.2",
+  "description": "Never miss your exciting CSGO matches, just add them to your favorite calendar.",
+  "author": "Yash Talwar",
+  "icons": {
+    "128": "icons/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.hltv.org/matches/*/*"],
+      "js": ["js/AddButton.js"],
+      "css": ["css/style.css"]
+    }
+  ]
 }
